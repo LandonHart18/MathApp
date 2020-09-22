@@ -1,0 +1,13 @@
+G:\Visual Studio\MathApp\bin\Debug\netcoreapp3.1\MathApp.exe
+G:\Visual Studio\MathApp\bin\Debug\netcoreapp3.1\MathApp.deps.json
+G:\Visual Studio\MathApp\bin\Debug\netcoreapp3.1\MathApp.runtimeconfig.json
+G:\Visual Studio\MathApp\bin\Debug\netcoreapp3.1\MathApp.runtimeconfig.dev.json
+G:\Visual Studio\MathApp\bin\Debug\netcoreapp3.1\MathApp.dll
+G:\Visual Studio\MathApp\bin\Debug\netcoreapp3.1\MathApp.pdb
+G:\Visual Studio\MathApp\obj\Debug\netcoreapp3.1\MathApp.csprojAssemblyReference.cache
+G:\Visual Studio\MathApp\obj\Debug\netcoreapp3.1\MathApp.AssemblyInfoInputs.cache
+G:\Visual Studio\MathApp\obj\Debug\netcoreapp3.1\MathApp.AssemblyInfo.cs
+G:\Visual Studio\MathApp\obj\Debug\netcoreapp3.1\MathApp.csproj.CoreCompileInputs.cache
+G:\Visual Studio\MathApp\obj\Debug\netcoreapp3.1\MathApp.dll
+G:\Visual Studio\MathApp\obj\Debug\netcoreapp3.1\MathApp.pdb
+G:\Visual Studio\MathApp\obj\Debug\netcoreapp3.1\MathApp.genruntimeconfig.cache
